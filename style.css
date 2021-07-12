@@ -1,1 +1,29 @@
-/* Your board style here */
+/* Board style */
+.racer-table td {
+  height: 100px;
+  width: 10vw;
+}
+
+.path {
+  background-image: url("https://source.unsplash.com/AwwdfImDUeQ");
+}
+
+.racer-table td.active {
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: center;
+}
+
+#rabbit td.active {
+  background-image: url("https://source.unsplash.com/jWjqMOQOHr0");
+}
+
+#turtle td.active {
+  background-image: url("https://source.unsplash.com/_NgSXe2cJPk");
+}
+
+.finish-line {
+  background-image: url("https://source.unsplash.com/Nsaqv7v2V7Q") !important;
+  background-size: 100%;
+  background-position: center;
+}
