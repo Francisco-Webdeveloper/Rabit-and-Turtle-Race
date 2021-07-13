@@ -22,7 +22,7 @@ Then open [`localhost:8080`](http://localhost:8080) in your favorite web browser
 ## Features
 * Race track is a two-player board built with HTML table;
 * The player's positions are updated by moving the `active` class from one `td` to the next one;
-* JavaScript functions will update a player's position and make the animal move along the race track (td's);
+* JavaScript functions will update a player's position and make the animal move along the race track (td's) with the use of nextElementSibling JS property.
 * The `keyup` event type will trigger the animal to move forward;
 * A JS alert is used to announce the winner, once the first animal reaches the finish line;
 * To restart the game we use `window.location.reload();`;
