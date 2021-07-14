@@ -6,7 +6,7 @@ The goal here is to use JavaScript, the DOM, and asynchronous event handling.
 
 https://user-images.githubusercontent.com/67716187/125361972-69733e00-e36e-11eb-9815-53c3a0af5b93.mov
 
-## Download
+## Setup
 Go to the Terminal, choose a directory where you wish to clone the repository and run:
 ```bash
 git clone "git@github.com:Francisco-Webdeveloper/Rabit-and-Turtle-Race.git"
